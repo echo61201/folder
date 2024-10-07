@@ -1,0 +1,489 @@
+.tb5 td {
+	width: 100%;
+}
+.tb5 input {
+	width: 100%;
+	margin: 15px 0;
+}
+.con6 {
+	margin: 20px 0;
+}
+.con6 b {
+	font-size: 24px;
+	font-style: italic;
+	color: red;
+}
+.con6 span {
+	color: #999;
+	text-decoration: line-through;
+	margin-left: 15px;
+}
+.con8 {
+	margin: 20px 0;
+}
+.con8 img {
+	width: 35%;
+	height: auto;
+	margin: 0 15px 15px 0;
+	float: left;
+}
+.con8 p {
+	line-height: 28px;
+	text-indent: 2em;
+	color: #888;
+	margin: 10px 0;
+}
+.bg-info {
+	width: 20%;
+	height: 60px;
+	line-height: 60px;
+	text-indent: 1em;
+	border-radius: 3px;
+	margin: 20px 0;
+	font-size: 26px;
+	font-weight: bold;
+}
+@media (max-width: 749px) {
+	.carousel,.carousel-inner,.carousel-inner img{
+		width: 100%;
+		height: 150px;
+	}
+	.con1 img {
+		width: 100%;
+		height: 150px;
+		object-fit: cover;
+	}
+	.con1 p {
+		margin-top: 14px;
+	}
+	.ch2 {
+		width: 150px;
+		height: 40px;
+		line-height: 40px;
+		text-align: center;
+		border-left: 12px solid aqua;
+		margin: 40px 0;
+	}
+	.con2 {
+		height: 80px;
+		line-height: 80px;
+		text-align: center;
+		background-color: #eee;
+		margin-top: 50px;
+	}
+	.con4 img{
+		width: 100%;
+		height: 250px;
+		object-fit: cover;
+		margin: 40px 0 0;
+	}
+	.con3 img{
+		width: 100%;
+		height: 150px;
+	}
+	.con3 div{
+		width: 100%;
+		height: 150px;
+		box-shadow: 1px 1px 10px 1px #333;
+	}
+	.con3 div h4{
+		height: 30px;
+		line-height: 30px;
+		text-align: center;
+		background-color: #eee;
+	}
+	.con3 div ul{
+		width: 100%;
+		padding: 10px;
+		font-size: 12px;
+		box-sizing: border-box;
+		padding: 0px 0 0 15px;
+	}
+	.con3 div ul li{
+		line-height: 16px;
+		border-bottom: 1px dashed #ccc;
+		cursor: pointer;
+	}
+	.con3 div ul li:hover{
+		color: red;
+	}
+	.con5 {
+		margin: 40px 0;
+	}
+	.con5 img{
+		width: 35%;
+		height: 250px;
+		object-fit: cover;
+		float: left;
+		margin: 0 20px 20px 0;
+	}
+	.con5 p{
+		color: #666;
+		font-size: 12px;
+		text-indent: 2em;
+		line-height: 20px;
+	}
+	.con5 .pp {
+		font-size: 26px;
+		font-weight: 600;
+	}
+	.con6 img {
+		width: 100%;
+		height: 300px;
+		object-fit: cover;
+		margin-bottom: 20px;
+	}
+	.con6 div {
+		width: 100%;
+		height: 300px;
+		margin-bottom: 20px;
+	}
+	.con7 {
+		margin: 40px 0;
+	}
+	.con7 img {
+		width: 100%;
+		height: 260px;
+		object-fit: cover;
+	}
+	.con7 p {
+		font-size: 28px;
+		line-height: 33px;
+		color: coral;
+		font-style: italic;
+	}
+	
+}
+@media (min-width: 750px) {
+	.carousel,.carousel-inner,.carousel-inner img{
+		width: 100%;
+		height: 200px;
+	}
+	.con1 img {
+		width: 100%;
+		height: 190px;
+		object-fit: cover;
+	}
+	.con1 p {
+		margin-top: 14px;
+	}
+	.ch2 {
+		width: 150px;
+		height: 40px;
+		line-height: 40px;
+		text-align: center;
+		border-left: 12px solid aqua;
+		margin: 40px 0;
+	}
+	.con2 {
+		height: 80px;
+		line-height: 80px;
+		text-align: center;
+		background-color: #eee;
+		margin-top: 50px;
+	}
+	.con4 img{
+		width: 100%;
+		height: 300px;
+		object-fit: cover;
+		margin: 40px 0 0;
+	}
+	.con3 img{
+		width: 100%;
+		height: 240px;
+	}
+	.con3 div{
+		width: 100%;
+		height: 240px;
+		box-shadow: 1px 1px 10px 1px #333;
+	}
+	.con3 div h4{
+		height: 30px;
+		line-height: 30px;
+		text-align: center;
+		background-color: #eee;
+	}
+	.con3 div ul{
+		width: 100%;
+		padding: 10px;
+		font-size: 12px;
+		box-sizing: border-box;
+		padding: 0px 0 0 15px;
+	}
+	.con3 div ul li{
+		line-height: 18px;
+		border-bottom: 1px dashed #ccc;
+		cursor: pointer;
+	}
+	.con3 div ul li:hover{
+		color: red;
+	}
+	.con5 {
+		margin: 40px 0;
+	}
+	.con5 img{
+		width: 35%;
+		height: 300px;
+		object-fit: cover;
+		float: left;
+		margin: 0 20px 20px 0;
+	}
+	.con5 p{
+		color: #666;
+		font-size: 14px;
+		text-indent: 2em;
+		line-height: 25px;
+	}
+	.con5 .pp {
+		font-size: 26px;
+		font-weight: 600;
+	}
+	.con6 img {
+		width: 100%;
+		height: 300px;
+		object-fit: cover;
+		margin-bottom: 20px;
+	}
+	.con6 div {
+		width: 100%;
+		height: 300px;
+		margin-bottom: 20px;
+	}
+	.con7 {
+		margin: 40px 0;
+	}
+	.con7 img {
+		width: 100%;
+		height: 290px;
+		object-fit: cover;
+	}
+	.con7 p {
+		font-size: 28px;
+		line-height: 33px;
+		color: coral;
+		font-style: italic;
+	}
+}
+@media (min-width: 970px) {
+	.carousel,.carousel-inner,.carousel-inner img{
+		width: 100%;
+		height: 300px;
+	}
+	.con1 img {
+		width: 100%;
+		height: 220px;
+		object-fit: cover;
+	}
+	.con1 p {
+		margin-top: 14px;
+	}
+	.ch2 {
+		width: 150px;
+		height: 40px;
+		line-height: 40px;
+		text-align: center;
+		border-left: 12px solid aqua;
+		margin: 40px 0;
+	}
+	.con2 {
+		height: 80px;
+		line-height: 80px;
+		text-align: center;
+		background-color: #eee;
+		margin-top: 50px;
+	}
+	.con4 img{
+		width: 100%;
+		height: 400px;
+		object-fit: cover;
+		margin: 40px 0 0;
+	}
+	.con3 img{
+		width: 100%;
+		height: 240px;
+	}
+	.con3 div{
+		width: 100%;
+		height: 240px;
+		box-shadow: 1px 1px 10px 1px #333;
+	}
+	.con3 div h4{
+		height: 30px;
+		line-height: 30px;
+		text-align: center;
+		background-color: #eee;
+	}
+	.con3 div ul{
+		width: 100%;
+		padding: 10px;
+		font-size: 12px;
+		box-sizing: border-box;
+		padding: 0px 0 0 15px;
+	}
+	.con3 div ul li{
+		line-height: 20px;
+		border-bottom: 1px dashed #ccc;
+		cursor: pointer;
+	}
+	.con3 div ul li:hover{
+		color: red;
+	}
+	.con5 {
+		margin: 40px 0;
+	}
+	.con5 img{
+		width: 35%;
+		height: 380px;
+		object-fit: cover;
+		float: left;
+		margin: 0 20px 20px 0;
+	}
+	.con5 p{
+		color: #666;
+		font-size: 15px;
+		text-indent: 2em;
+		line-height: 30px;
+	}
+	.con5 .pp {
+		font-size: 26px;
+		font-weight: 600;
+	}
+	.con6 img {
+		width: 100%;
+		height: 300px;
+		object-fit: cover;
+		margin-bottom: 20px;
+	}
+	.con6 div {
+		width: 100%;
+		height: 300px;
+		margin-bottom: 20px;
+	}
+	.con7 {
+		margin: 40px 0;
+	}
+	.con7 img {
+		width: 100%;
+		height: 310px;
+		object-fit: cover;
+	}
+	.con7 p {
+		font-size: 28px;
+		line-height: 33px;
+		color: coral;
+		font-style: italic;
+	}
+}
+@media (min-width: 1170px) {
+	.carousel,.carousel-inner,.carousel-inner img{
+		width: 100%;
+		height: 400px;
+	}
+	.con1 img {
+		width: 100%;
+		height: 260px;
+		object-fit: cover;
+	}
+	.con1 p {
+		margin-top: 14px;
+	}
+	.ch2 {
+		width: 150px;
+		height: 40px;
+		line-height: 40px;
+		text-align: center;
+		border-left: 12px solid aqua;
+		margin: 40px 0;
+	}
+	.con2 {
+		height: 80px;
+		line-height: 80px;
+		text-align: center;
+		background-color: #eee;
+		margin-top: 50px;
+	}
+	.con3 img{
+		width: 100%;
+		height: 240px;
+	}
+	.con3 div{
+		width: 100%;
+		height: 240px;
+		box-shadow: 1px 1px 10px 1px #333;
+	}
+	.con3 div h4{
+		height: 50px;
+		line-height: 50px;
+		text-align: center;
+		background-color: #eee;
+	}
+	.con3 div ul{
+		width: 100%;
+		padding: 10px;
+		font-size: 12px;
+		box-sizing: border-box;
+		padding: 0px 0 0 15px;
+	}
+	.con3 div ul li{
+		line-height: 34px;
+		border-bottom: 1px dashed #ccc;
+		cursor: pointer;
+	}
+	.con3 div ul li:hover{
+		color: red;
+	}
+	.con4 img{
+		width: 100%;
+		height: 500px;
+		object-fit: cover;
+		margin: 40px 0 0;
+	}
+	.con5 {
+		margin: 40px 0;
+	}
+	.con5 img{
+		width: 35%;
+		height: 450px;
+		object-fit: cover;
+		float: left;
+		margin: 0 20px 20px 0;
+	}
+	.con5 p{
+		color: #666;
+		font-size: 17px;
+		text-indent: 2em;
+		line-height: 40px;
+	}
+	.con5 .pp {
+		font-size: 26px;
+		font-weight: 600;
+	}
+	.con6 img {
+		width: 100%;
+		height: 300px;
+		object-fit: cover;
+		margin-bottom: 20px;
+	}
+	.con6 div {
+		width: 100%;
+		height: 300px;
+		margin-bottom: 20px;
+	}
+	.con7 {
+		margin: 40px 0;
+	}
+	.con7 img {
+		width: 100%;
+		height: 360px;
+		object-fit: cover;
+	}
+	.con7 p {
+		font-size: 28px;
+		line-height: 33px;
+		color: coral;
+		font-style: italic;
+	}
+}
+
+
+
