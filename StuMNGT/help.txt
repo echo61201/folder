@@ -1,0 +1,1 @@
+   您可以用鼠标双击StudentManager.bat文件来运行本系统。
